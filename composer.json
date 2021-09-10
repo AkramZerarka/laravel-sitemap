@@ -1,11 +1,10 @@
 {
-    "name": "spatie/laravel-sitemap",
+    "name": "AkramZerarka/laravel-sitemap",
     "description": "Create and generate sitemaps with ease",
     "keywords": [
         "spatie",
         "laravel-sitemap"
     ],
-    "homepage": "https://github.com/spatie/laravel-sitemap",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.4",
         "guzzlehttp/guzzle": "^7.2",
         "illuminate/support": "^8.0",
         "nesbot/carbon": "^2.0",
